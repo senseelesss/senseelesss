@@ -1,49 +1,37 @@
-# Hi, I'm Nazar Azizov 👋
+# Hi, I'm Nazar Azizov 👋 
+### Software Engineering Student @ University of Vienna
 
-I’m an aspiring **Software / Data Werkstudent & Intern** based in Vienna.
-I like building practical products that combine automation, clean backend logic, and user-friendly interfaces.
-
-## What I’m focused on right now
-
-- Building reliable backend services with **Node.js + TypeScript**
-- Working with **databases and data pipelines** (PostgreSQL, Prisma)
-- Shipping real projects end-to-end (architecture → deployment → iteration)
-- Growing in **software engineering + data-oriented problem solving**
-
-## Tech Stack
-
-- **Languages:** TypeScript, JavaScript, SQL, Python (learning deeper)
-- **Backend:** Node.js, Fastify, REST APIs, serverless
-- **Bot/Automation:** Telegram bots (grammY), workflow automation
-- **Data:** PostgreSQL, Prisma, basic analytics mindset
-- **Cloud & DevOps:** Vercel, GitHub Actions, Docker basics
-- **Tools:** Git, GitHub, VS Code, Linux/macOS terminal
-
-## Highlighted Project
-
-### 🤖 [booking-bot](https://github.com/senseelesss/booking-bot)
-Production-oriented Telegram booking bot with:
-- Google Calendar slot sync
-- Prisma + PostgreSQL persistence
-- Webhook deployment on Vercel
-- Admin actions and user booking flow
-
-This project reflects how I approach engineering: practical scope, clear architecture, and deployment readiness.
-
-## Looking for
-
-I’m currently looking for:
-- **Werkstudent** roles in software engineering / backend / data
-- **Internships** where I can contribute quickly and grow with strong mentorship
-
-If your team builds useful products and values ownership + learning, I’d be happy to connect.
-
-## Contact
-
-- LinkedIn: _add-your-link-here_
-- Email: _add-your-email-here_
-- Telegram: _@your_handle_
+I am a Backend-focused Developer and CS student with a passion for building high-performance automation, scalable data pipelines, and practical software solutions. Currently specializing in bridging the gap between raw data and actionable insights.
 
 ---
 
-_Thanks for visiting my profile!_
+### 🛠 Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python (Advanced), TypeScript, JavaScript, SQL (PostgreSQL) |
+| **Backend & APIs** | Node.js, Express, FastAPI, Prisma ORM, RESTful APIs |
+| **Data & AI** | Web Scraping (Scrapy/Selenium), Pandas, LLM Integration (OpenAI API) |
+| **DevOps & Cloud** | Docker, Git, GitHub Actions, Vercel, Linux Shell |
+| **Automation** | Telegram Bot API (grammY/aiogram), Workflow Automation |
+
+---
+
+### 🔥 Featured Projects
+
+#### 🏙️ [Vienna Housing Market Analyzer](https://github.com/senseelesss/vienna-housing-analyzer)
+*A data-driven tool for real-time rental market analysis in Vienna.*
+- **Tech:** Python, BeautifulSoup4, Pandas, PostgreSQL, Docker.
+- **Impact:** Automated data collection from 3+ real estate platforms; implemented a price-prediction baseline and automated reporting system.
+- **Key Focus:** ETL Pipelines, Data Cleaning, Market Insights.
+
+#### 🤖 [Production-Ready Booking System](https://github.com/senseelesss/booking-bot)
+*Scalable Telegram-based automation for service scheduling.*
+- **Tech:** TypeScript, Node.js, Prisma, PostgreSQL, Google Calendar API.
+- **Key Focus:** Webhook architecture, State management, Third-party API integration.
+
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/nazarazizov](https://www.linkedin.com/in/nazarazizov/)
+- **Email:** nazarazizov@icloud.com - **Location:** Vienna, Austria 🇦🇹
+- **Languages:** English (Fluent), German (Fluent), Ukrainian (Native), Russian (Native)
